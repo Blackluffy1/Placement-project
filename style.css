@@ -1,0 +1,281 @@
+html {
+  height: 80px;
+  width: 450px;
+  background: #EFA5CC;
+}
+
+.playfair-display-<uniquifier> {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.header {
+  font-weight: extra lighter;
+  text-align: center;
+  font-size: 40px;
+  position: relative;
+  left: 225px;
+  top: -40px;
+
+}
+
+.logo{
+  width: 180px;
+  height: 75px;  
+  position: relative;
+  left: -280px;
+}
+
+.slogan{
+  font-size: 20px;
+  text-align: center;
+  position: relative;
+  left: 230px;
+  top: -60px; 
+}
+
+.facebook-social{
+  position: relative;
+  top: -5px;
+  left: -23px;
+}
+
+.Facebook-box{
+
+  position: relative;
+  top: 28px;
+  padding: 10px;
+  width: 225px;
+  height: 23px;
+  left: 350px;
+  border: 1px solid white;
+  border-radius: 25px;
+  background-color: #FFACD8 ;
+}
+
+.Facebook-text{
+
+  font-size: 14px;
+  position: relative;
+  left: 413px;
+  top: 0px;
+}
+
+.logo2{
+  position: relative;
+  left: 360px;
+  top: -27px;
+  width: 37px;
+  height: 37px;
+}
+
+.apple-social{
+  position: relative;
+  top: 80px;
+  left: -23px;
+}
+
+.Apple-box{
+
+  position: relative;
+  top: -110px;
+  padding: 10px;
+  width: 225px;
+  height: 23px;
+  left: 350px;
+  border: 1px solid white;
+  border-radius: 25px;
+  background-color: #FFACD8 ;
+}
+
+.Apple-text{
+
+  font-size: 14px;
+  position: relative;
+  left: 410px;
+  top: -138px;
+}
+
+.logo3{
+  position: relative;
+  left: 363px;
+  top: -163px;
+  width: 32px;
+  height: 32px;
+}
+
+.google-social{
+  position: relative;
+  top: 32px;
+  left: -23px;
+}
+
+.Google-box{
+
+  position: relative;
+  top: -110px;
+  padding: 10px;
+  width: 225px;
+  height: 23px;
+  left: 350px;
+  border: 1px solid white;
+  border-radius: 25px;
+  background-color: #FFACD8 ;
+}
+
+.Google-text{
+
+  font-size: 14px;
+  position: relative;
+  left: 414px;
+  top: -138px;
+}
+
+.logo4{
+  position: relative;
+  left: 365px;
+  top: -160px;
+  width: 30px;
+  height: 30px;
+}
+
+.line{
+  border-bottom: 1px solid white;
+  width: 280px;
+  position: relative;
+  top: -100px;
+  left: 315px;
+  
+}
+
+.username{
+  position: relative;
+  top: -91px;
+  left: 355px;
+  font-size: 13px;
+  font-weight: 525;
+}
+
+.user-box{
+
+  position: relative;
+  top: -82px;
+  padding: 10px;
+  width: 200px;
+  height: 20px;
+  left: 330px;
+  z-index: 0;
+  border-radius: 25px;
+  background-color: #FFFFFF ;
+}
+
+.password{
+  position: relative;
+  top: -75px;
+  left: 360px;
+  font-size: 13px;
+  font-weight: 525;
+}
+
+.passw-box{
+
+  position: relative;
+  top: -70px;
+  padding: 10px;
+  width: 200px;
+  height: 20px;
+  left: 335px;
+  z-index: 0;
+  border-radius: 25px;
+  background-color: #FFFFFF ;
+}
+
+.rm{
+  font-size: 13px;
+  color: white;
+  position: relative;
+  left: 388px;
+  top: -65px;
+}
+
+.Next-box{
+  height: 41px;
+  width :160px;
+  border-radius: 11px;
+  background-color: #FFACD8;
+  position: relative;
+  left: 370px;
+  top: -40px;
+}
+
+
+.next{
+  position: relative;
+  font-size: 22px;
+  left: 425px;
+  top: -110px ;
+}
+  
+.fyp{
+  font-size: 16.5px;
+  color: white;
+  position: relative;
+  left: 380px;
+  top: -70px;
+}
+
+.no_acc{
+  position: relative;
+  left: 285px;
+  top: -60px;
+}
+
+body{
+  position: relative;
+  left: 282px;
+  top: 0px;
+}
+
+.all{
+  position: relative;
+  top: -60px;
+  left: 9px ;
+}
+
+.emi{
+  outline: none;
+  border: #ffffff;
+  position: relative;
+  width: 160px;
+  height: 20px;
+  z-index: 1;
+  left: -95px;
+  top: 40px;
+}
+
+.pi{
+  outline: none;
+  border: #ffffff;
+  position: relative;
+  width: 160px;
+  height: 20px;
+  z-index: 1;
+  left: -45px;
+  top: 45px;
+}
+
+.abc{
+  height: 36px;
+  width: 155px;
+  border-radius: 11px;
+  background-color: transparent;
+  border: transparent;
+  position: relative;
+  left: -100px;
+}
+
+
+
+

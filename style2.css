@@ -1,0 +1,168 @@
+html {
+  height: 80px;
+  width: 450px;
+  background: #EFA5CC;
+}
+
+.logo{
+  height: 70px;
+}
+
+.heading{
+  font-weight: extra lighter;
+  text-align: center;
+  font-size: 40px;
+  position: relative;
+  top: -60px;
+  left: 515px;
+}
+.slogan{
+  text-align: center;
+  position: relative;
+  right:auto;
+  left: 525px;
+  top: -50px
+}
+
+.em{
+ position: relative; 
+  left: 620px;
+  top: -20px;
+}
+
+.em_box{
+  width: 220px;
+  height: 40px;
+  position: relative;
+  left: 615px;
+  top: 0px;
+  z-index: 0;
+  border-radius: 25px;
+  background-color: #ffffff;
+}
+
+.Password{
+  position: relative;
+  left: 625px;
+  top:20px
+  
+}
+
+.Password_box{
+  width: 220px;
+  height: 40px;
+  position: relative;
+  top: 40px;
+  left: 615px;
+  z-index: 0;
+  border-radius: 25px;
+  background-color: white;
+}
+
+.next-box{
+  height: 41px;
+  width :160px;
+  border-radius: 11px;
+  background-color: #FFACD8;
+  position: relative;
+  left: 645px;
+  top: 80px;
+}
+
+.line{
+  border-bottom: 1px solid white;
+  width: 140px;
+  position: relative;
+  top: 130px;
+  left: 570px;
+}
+
+.line2{
+  border-bottom: 1px solid white;
+  width: 140px;
+  position: relative;
+  top: 130px;
+  left: 750px;
+}
+
+.or{
+  position: relative;
+  left: 721px;
+  top: 103px;
+  font-size: 16px;
+}
+
+.logo2{
+  height: 40px;
+  width: 40px;
+  position: relative;
+  left: 785px;
+  top: 113px;
+}
+
+.logo3{
+  height: 40;
+  width: 40px;
+  position: relative;
+  left: 630px;
+  top: 20px;
+}
+
+.logo4{
+  height: 40px;
+  width: 40px;
+  position: relative;
+  left: 710px;
+  top: 68px;
+}
+
+.nnhch{
+  position: relative;
+  left: 645px;
+  top: 40px;
+  font-size: 15px;
+  font-weight: 525;
+}
+
+.next{
+  position: relative ;
+  left: 702px;
+  top: -200px;
+  font-size: 22px;
+  z-index: 0;
+}
+
+.abc{
+  height: 36px;
+  width: 155px;
+  border-radius: 11px;
+  background-color: transparent;
+  border: transparent;
+  z-index: 1;
+  position: relative;
+  left: -100px;
+  top: -5px;
+}
+
+.emi{
+  outline: none;
+  border: #ffffff;
+  position: relative;
+  width: 160px;
+  height: 20px;
+  z-index: 1;
+  left: 630px;
+  top: -425px;
+}
+
+.word{
+  outline: none;
+  border: #ffffff;
+  position: relative;
+  width: 160px;
+  height: 20px;
+  z-index: 1;
+  left: 480px;
+  top: -325px;
+}
+

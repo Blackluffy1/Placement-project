@@ -1,0 +1,145 @@
+html {
+  height: 80px;
+  width: 300px;
+  background: #EFA5CC;
+}
+
+body {
+  overflow: hidden; /* Add this line to prevent overscrolling */
+}
+
+.box {
+  height:762px;
+  width: 300px;
+  z-index: 0;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  background: #DE8FB9;
+}
+
+.horizontal{
+  height:115px;
+  width: 1250px;
+  z-index: 1;
+  position: fixed;
+  align-items: center;
+  top: 0px;
+  left: 300px;
+  background: #dc8cb4;
+}
+
+.search-box{
+  background: #FFFFFF;
+  height: 33px;
+  width: 223px;
+  position: fixed;
+  z-index: 2;
+  border-radius: 25px;
+  top: 100px;  
+}
+
+.search{
+  outline: none;
+  border: 1px solid #ffffff;
+  font-size: 13px;
+  z-index: 3;
+  position: relative;
+  top: 8px;
+  left: 50px;
+}
+
+.logo{
+  position: relative;
+  top: 5px;
+  height: 70px;
+  z-index: 2;
+  position: fixed;
+}
+
+.radio{
+  position: fixed;
+  z-index: 3;
+  height: 24px;
+  width: 26px;
+  top: 193px;
+  left: 12px;
+}
+
+.browse{
+  position: fixed;
+  z-index: 3;
+  height: 24px;
+  width: 26px;
+  top: 235px;
+  left: 12px;
+}
+
+.search-mag{
+  position: fixed;
+  z-index: 3;
+  height: 24px;
+  width: 26px;
+  top: 105px;
+  left: 12px;
+}
+
+.plus{
+  position: fixed;
+  z-index: 3;
+  height: 22px;
+  width: 24px;
+  top: 430px;
+  left: 12px;
+}
+
+.songs_icon{
+  position: fixed;
+  z-index: 3;
+  height: 26px;
+  width: 28px;
+  top: 390px;
+  left: 12px;
+}
+
+.album{
+   position: fixed;
+   z-index: 3;
+   height: 30px;
+   width: 30px;
+   top: 348px;
+   left: 12px;
+  }
+
+.account{
+  position: fixed;
+  z-index: 3;
+  height: 30px;
+  width: 30px;
+  top: 275px;
+  left: 12px;
+}
+
+.artist{
+  position: fixed;
+  z-index: 3;
+  height: 35px;
+  width: 35px;
+  top: 310px;
+  left: 12px;
+}
+
+.hyperlinks {
+  display: flex;
+  flex-direction: column;
+  z-index: 2;
+  position: fixed;
+  left: 50px;
+  top: 200px;
+}
+
+.hyperlinks a {
+  margin-bottom: 20px; /* Adding margin between links */
+  text-decoration: none; /* Removing underline from links */
+  color: black;
+}
